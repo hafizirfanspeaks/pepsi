@@ -1,0 +1,30 @@
+#d10{
+width: 100%;
+height: 83px;
+/* border:5px solid black; */
+display: flex;
+background-color: black;
+position: sticky;
+    top: 0;
+}
+
+#d11{
+padding-left: 1rem;
+    padding-right: 1rem;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+#d20{
+    height: 950px;
+    width: 100%;
+    /* height: 950px; */
+    background-color: black;
+}
+#d21{
+    width: 1024px;
+    height: 100%;
+    border: 1px solid white;
+    display: flex;
+}
